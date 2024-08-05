@@ -32,4 +32,4 @@ if len(us_states) > 0:
 else:
   print('Sorry, but the list of U.S. states was empty!')
   print(f'Cannot remove {state} from the list of states.')
-  print('Goodbye!)
+  print('Goodbye!')
