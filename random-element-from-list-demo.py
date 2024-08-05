@@ -20,7 +20,7 @@ print(movie)
 # Example 2
 # We've already imported the random module, so we don't need
 # to import it again for this example
-us_states = ['Missouri', 'Oklahoma', 'Nevada', 'Arizona', 'California', 'Texas']
+us_states = ['Missouri', 'Oklahoma', 'Nevada', 'Arizona', 'California', 'Texas', 'Massachusetts', 'North Carolina', 'Maryland', 'Georgia']
 
 # Use random.choice() method to select a state at random from the list of states
 state = random.choice(us_states)
